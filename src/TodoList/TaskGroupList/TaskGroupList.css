@@ -1,0 +1,33 @@
+.TaskGroupList-heading {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.TaskGroupList-list {
+  border-bottom: 1px solid #ddd;
+  border-top: 1px solid #ddd;
+}
+
+.TaskGroupList-listItem {
+  border-top: 1px solid #ddd;
+  padding: 20px 0;
+}
+
+.TaskGroup {
+  align-items: center;
+  display: flex;
+}
+
+.TaskGroup-icon {
+  margin-right: 20px;
+}
+
+.TaskGroup-name {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.TaskGroup-status {
+  color: #999;
+  text-transform: uppercase;
+}

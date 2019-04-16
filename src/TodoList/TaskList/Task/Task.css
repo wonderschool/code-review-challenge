@@ -1,0 +1,12 @@
+.Task {
+  align-items: center;
+  display: flex;
+}
+
+.Task-icon {
+  margin-right: 20px;
+}
+
+.Task-text {
+  font-weight: bold;
+}
